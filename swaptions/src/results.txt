@@ -1,0 +1,12 @@
+SDC count         = 97
+EDC count         = 92
+Non-EDC count     = 5
+Crash count       = 852
+Benign count      = 1051
+Hang count        = 0
+Total Fi runs     = 2000
+SDC %             = 4.8500000000000005
+EDC %             = 4.6
+Non-EDC %         = 0.25
+Crash %           = 42.6
+Benign %          = 52.55

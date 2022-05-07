@@ -1,0 +1,12 @@
+SDC count         = 0
+EDC count         = 0
+Non-EDC count     = 0
+Crash count       = 0
+Benign count      = 500
+Hang count        = 0
+Total Fi runs     = 500
+SDC %             = 0.0
+EDC %             = 0.0
+Non-EDC %         = 0.0
+Crash %           = 0.0
+Benign %          = 100.0

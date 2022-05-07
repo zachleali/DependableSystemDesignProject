@@ -1,0 +1,6 @@
+Usage instructions for tracediff
+
+	tracediff [options] traceA traceB
+
+Supported options:
+	-m <max>   Stop after <max> differences have been reported
