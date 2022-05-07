@@ -24,4 +24,5 @@ Blackscholes and Swaptions in the parsec-3.0 suite are located at `/parsec-3.0/p
 run: > `python3 <script_name>.py`
 
 ##Machine learning model script
-navigate to `/DependableSystemDesignProject/
+navigate to `/DependableSystemDesignProject/PythonScriptsAndData/EDCModel.py` 
+NOTE: THIS IS THE SCRIPT I HAVE AND UNDERSTAND IT DOES NOT WORK.
