@@ -1,0 +1,13 @@
+ - -injecttoindex=640     #3200  rank:6  EDC:9  MEDIUM
+          #  - -injecttoindex=353     #3200  rank:6   EDC:6  MEDIUM
+          #  - -injecttoindex=456     #17    rank:0   EDC:0 VERYLOW
+          #  - -injecttoindex=530      #1     rank:0    EDC:0 VERYLOW
+          #  - -injecttoindex=581     #17    rank:7    EDC:971 VERYHIGH
+          #  - -injecttoindex=252     #1600  rank:5     EDC:15  MEDIUM
+          #  - -injecttoindex=255     #1400  rank:4
+          #  - -injecttoindex=258     #1400  rank:4
+          #  - -injecttoindex=251     #1600  rank:5
+          #  - -injecttoindex=549     #1     rank:0
+          #  - -injecttoindex=584     #16    rank:1
+          #  - -injecttoindex=235     #1600  rank:5
+          #  - -injecttoindex=238     #1600  rank:5
